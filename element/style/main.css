@@ -9,25 +9,25 @@
     }
 }
 
-@media (max-width:800px){
+@media (max-width:850px){
     .header h1{
         font-size: 50px;
     }
 }
 
-@media (max-width:500px){
+@media (max-width:550px){
     .header h1{
         font-size: 44px;
     }
 }
 
-@media (max-width:400px){
+@media (max-width:450px){
     .header h1{
         font-size: 41px;
     }
 }
 
-@media (max-width:320px){
+@media (max-width:350px){
     .header h1{
         font-size: 33px;
     }
